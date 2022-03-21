@@ -1,0 +1,14 @@
+[validators]
+stores= [
+    "dafiti", 
+    "kanui", 
+    "shop2gether",
+    "artwalk",
+    "gdlp",
+    "maze",
+    "yourid",
+    "kings",
+    "authenticfeet",
+    "farfetch",
+    "pineapple"
+]
